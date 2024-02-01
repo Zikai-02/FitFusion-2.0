@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">FIT FUSION</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nutrition">Nutrition</string>
+    <string name="timer">TIMER</string>
+    <string name="Back">Back</string>
+    <string name="EnterSeconds">Enter Seconds</string>
+    <string name="zero">000</string>
+    <string name="Pause">Pause</string>
+    <string name="Start">Start</string>
+    <string name="Reset">Reset</string>
+    <string name="title_activity_note_select">NoteSelect</string>
+    <string name="title_activity_testing">Testing</string>
+    <string name="enter_workout_plan">Enter workout plan</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="of_attempts_remaining"># of attempts remaining:</string>
+    <string name="type_here">Type here...</string>
+    <string name="back">Back</string>
+    <string name="add_meal_macros">Add meal macros</string>
+    <string name="back1">Back</string>
+    <string name="protein_160g">PROTEIN: 160G</string>
+    <string name="macro_goals">MACRO GOALS</string>
+    <string name="carbs_180g">CARBS: 180G</string>
+    <string name="fats_40g">FATS: 40G</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="timer1">Timer</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="workout">Workout</string>
+    <string name="notes">Notes</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="back2">Back</string>
+    <string name="monday_n_n_n_ntuesday_n_n_n_nwednesday_n_n_n_nthursday_n_n_n_nfriday_n_n_n_nsaturday_n_n_n_nsunday">Monday:\n\n\n\nTuesday:\n\n\n\nWednesday:\n\n\n\nThursday:\n\n\n\nFriday:\n\n\n\nSaturday:\n\n\n\nSunday:</string>
+    <string name="enter_workout_plan_for_each_day">Enter workout plan for each day.</string>
+    <string name="back3">Back</string>
+    <string name="enter_seconds">Enter Seconds</string>
+    <string name="start1">Start</string>
+    <string name="reset1">Reset</string>
+    <string name="tuesday">Tuesday:</string>
+    <string name="saturday">Saturday:</string>
+    <string name="sunday">Sunday:</string>
+    <string name="friday">Friday:</string>
+    <string name="wednesday">Wednesday:</string>
+    <string name="monday">Monday:</string>
+    <string name="thursday">Thursday:</string>
+    <string name="back4">Back</string>
+    <string name="attemptsremaining">\"# of attempts remaining: \"</string>
+    <string name="developer">
+Syed Zakaria Mehmood \n
+Mohammad Habib ul Bashar \n
+Armanul Farid \n
+Ali Nobakhtnimini \n
+Amanuel Tesfalem \n
+Shahriar Sarlak
+    </string>
+    <string name="about">
+Welcome to Fit Fusion an android app currently under development designed to be your comprehensive fitness companion, offering a range of activities tailored to enhance your health and well-being. \n\n
+
+ Dive into the Workout activity to jot down detailed notes about your fitness routines, ensuring you stay on track and maximize your efforts. \n\n
+Explore the Nutrition activity to document your dietary insights and maintain a balanced lifestyle.\n\n
+ If you need a space for general notes or reflections Notes activity has you covered .\n\n
+ For precision in your exercises, turn to the Timer activity, perfect for recording time intervals during your workouts. \n\n
+ Stopwatch activity is here to help you track your performance with precision. Your path to a healthier you starts here!
+    </string>
+</resources>
